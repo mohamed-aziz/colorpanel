@@ -1,3 +1,5 @@
+My fork of colorpanel for my project, this is a 15 minutes hack so don't use this.
+
 # colorpanel
 Simple jQuery plugin to switch css stylesheet skin theme on your template demo
 
